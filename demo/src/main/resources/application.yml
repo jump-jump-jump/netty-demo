@@ -1,0 +1,8 @@
+netty:
+  port: 8080
+http:
+  token: ceshi1, ceshi2
+#\u96EA\u82B1\u914D\u7F6E
+snowFlake:
+  workerId: 0
+  dataCenterId: 0
